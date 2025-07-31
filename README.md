@@ -34,6 +34,7 @@ Average time over 30 trials: 0.00000122 seconds
 Benchmarking for 10000 rows
 Average time over 30 trials: 0.00001233 seconds
 ```
+<img width="977" height="511" alt="image" src="https://github.com/user-attachments/assets/71a0001c-5ca5-4f03-a908-7a4dc51ba5a5" />
 
 ## Files
 
