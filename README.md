@@ -23,16 +23,16 @@ All values are in double precision floats. Output acceleration values are conver
 
 ```
 Benchmarking for 10 rows
-Average time over 30 trials: 0.000012 seconds
+Average time over 30 trials: 0.00000003 seconds
 
 Benchmarking for 100 rows
-Average time over 30 trials: 0.000090 seconds
+Average time over 30 trials: 0.00000014 seconds
 
 Benchmarking for 1000 rows
-Average time over 30 trials: 0.000740 seconds
+Average time over 30 trials: 0.00000122 seconds
 
 Benchmarking for 10000 rows
-Average time over 30 trials: 0.007123 seconds
+Average time over 30 trials: 0.00001233 seconds
 ```
 
 ## Files
